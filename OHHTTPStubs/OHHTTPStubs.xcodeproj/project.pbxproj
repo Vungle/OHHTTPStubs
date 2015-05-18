@@ -747,6 +747,7 @@
 		09110A6519805F4800D175E4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				DSTROOT = /tmp/OHHTTPStubs.dst;
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = OHHTTPStubs;
@@ -757,6 +758,7 @@
 		09110A6619805F4800D175E4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				DSTROOT = /tmp/OHHTTPStubs.dst;
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = OHHTTPStubs;
